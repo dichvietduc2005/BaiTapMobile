@@ -52,9 +52,9 @@
             android:id="@+id/textView4"
             android:layout_width="match_parent"
             android:layout_height="40dp"
-            android:gravity="center_horizontal"
+            android:gravity="left"
             android:text="Dịch Viết Đức"
-            android:textColor="#009688"
+            android:textColor="#E91E63"
             android:textColorLink="#9C27B0"
             android:textSize="34sp"
             android:textStyle="bold" />
